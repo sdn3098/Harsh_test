@@ -1,0 +1,4 @@
+name: Test1233
+version: ${project.version}
+main: test123.test1233.Test1233
+api-version: 1.17
